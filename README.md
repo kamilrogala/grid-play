@@ -2,4 +2,6 @@
 
 Just playing with grid CSS. Simple layout, with simple elements, nothing special.
 
-Keep scrolling ;)
+Keep scrolling...
+
+...or [check it](https://kamilrogala.github.io/grid-play/)!
